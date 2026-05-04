@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! Eu sou o Nathan Porto 👋
 
-<!--
-**nathanportos/nathanportos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💻 curasando ciencias da computação
+- 🌱  atualmente estou estudando python
+- 🔭 hoje ainda não estou trabalhando na area
+- 📫 contate.me no email: npsiqueira09@gmail.com
+- 😄 Pronouns: ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <div align="center">
+  <a href="https://github.com/nathanportos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanportos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanportos&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
