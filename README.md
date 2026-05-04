@@ -8,8 +8,8 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanportos&theme=merko">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathanportos&theme=merko">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanportos&theme=synthwave">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathanportos&theme=synthwave">
 </div>
 
 ---
