@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Nathan Porto 👋
 
-* 💻 curasando ciencias da computação
+* 💻 cursando ciencias da computação
 * 🌱  atualmente estou estudando python
 * 🔭 hoje ainda não estou trabalhando na area
 * 📫 contate.me no email: [npsiqueira09@gmail.com](mailto:npsiqueira09@gmail.com)
@@ -22,5 +22,6 @@
   <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
